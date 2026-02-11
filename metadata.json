@@ -1,0 +1,5 @@
+{
+  "name": "QuizAI",
+  "description": "An intelligent PDF-to-Quiz converter that transforms study documents into interactive multiple-choice quizzes using Gemini AI.",
+  "requestFramePermissions": []
+}
