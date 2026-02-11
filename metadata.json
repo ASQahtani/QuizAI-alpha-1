@@ -1,5 +1,5 @@
 {
   "name": "QuizAI",
-  "description": "An intelligent PDF-to-Quiz converter that transforms study documents into interactive multiple-choice quizzes using Gemini AI.",
+  "description": "An intelligent PDF-to-Quiz extractor that uses Gemini AI to transform your study documents into interactive multiple-choice quizzes with explanations and page references.",
   "requestFramePermissions": []
 }
